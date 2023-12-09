@@ -133,3 +133,12 @@ ITFS Method: MRI
 ITFS Method: DCSF
 	Completed at time: 50517.49 seconds
 ITFS Method: CSMI
+	Training with 1 features: 57705.57 seconds
+	Training with 2 features: 64732.96 seconds
+	Training with 3 features: 71657.28 seconds
+	Training with 4 features: 78273.69 seconds
+	Training with 5 features: 84702.03 seconds
+	Training with 6 features: 90988.37 seconds
+	Training with 7 features: 97113.96 seconds
+	Training with 8 features: 103123.32 seconds
+	Training with 9 features: 109064.92 seconds
