@@ -1,0 +1,233 @@
+['Isolet', 'ORL', 'RELATHE', 'Yale']
+
+Isolet
+ITFS Method: MIM
+	Completed at time: 715.48 seconds
+ITFS Method: MIFS
+	Completed at time: 1387.74 seconds
+ITFS Method: JMI
+	Completed at time: 2069.93 seconds
+ITFS Method: mRMR
+	Completed at time: 2677.44 seconds
+ITFS Method: CIFE
+	Completed at time: 3403.45 seconds
+ITFS Method: MRI
+	Completed at time: 4025.14 seconds
+ITFS Method: DCSF
+	Completed at time: 4745.50 seconds
+ITFS Method: CSMI
+	Training with 1 features: 5221.48 seconds
+	Training with 2 features: 5719.62 seconds
+	Training with 3 features: 6236.16 seconds
+	Training with 4 features: 6762.22 seconds
+	Training with 5 features: 7299.00 seconds
+	Training with 6 features: 7844.21 seconds
+	Training with 7 features: 8395.09 seconds
+	Training with 8 features: 8950.66 seconds
+	Training with 9 features: 9506.68 seconds
+	Training with 10 features: 10062.77 seconds
+	Training with 11 features: 10620.34 seconds
+	Training with 12 features: 11220.07 seconds
+	Training with 13 features: 11829.00 seconds
+	Training with 14 features: 12437.95 seconds
+	Training with 15 features: 13046.58 seconds
+	Training with 16 features: 13655.29 seconds
+	Training with 17 features: 14264.01 seconds
+	Training with 18 features: 14874.72 seconds
+	Training with 19 features: 15483.09 seconds
+	Training with 20 features: 16092.52 seconds
+	Training with 21 features: 16700.29 seconds
+	Training with 22 features: 17309.17 seconds
+	Training with 23 features: 17914.82 seconds
+	Training with 24 features: 18518.72 seconds
+	Training with 25 features: 19120.59 seconds
+	Training with 26 features: 19721.46 seconds
+	Training with 27 features: 20321.58 seconds
+	Training with 28 features: 20917.42 seconds
+	Training with 29 features: 21512.19 seconds
+	Training with 30 features: 23591.82 seconds
+	Training with 31 features: 26973.29 seconds
+	Training with 32 features: 30387.61 seconds
+	Training with 33 features: 33737.14 seconds
+	Training with 34 features: 37051.01 seconds
+	Training with 35 features: 40352.53 seconds
+	Training with 36 features: 43637.14 seconds
+	Training with 37 features: 46895.19 seconds
+	Training with 38 features: 50137.22 seconds
+	Training with 39 features: 53357.57 seconds
+	Training with 40 features: 56650.27 seconds
+	Completed at time: 56650.27 seconds
+
+ORL
+ITFS Method: MIM
+	Completed at time: 591.85 seconds
+ITFS Method: MIFS
+	Completed at time: 1171.17 seconds
+ITFS Method: JMI
+	Completed at time: 1759.68 seconds
+ITFS Method: mRMR
+	Completed at time: 2343.33 seconds
+ITFS Method: CIFE
+	Completed at time: 2941.33 seconds
+ITFS Method: MRI
+	Completed at time: 3524.60 seconds
+ITFS Method: DCSF
+	Completed at time: 4122.16 seconds
+ITFS Method: CSMI
+	Training with 1 features: 4777.33 seconds
+	Training with 2 features: 5541.72 seconds
+	Training with 3 features: 6297.63 seconds
+	Training with 4 features: 7020.36 seconds
+	Training with 5 features: 7721.44 seconds
+	Training with 6 features: 8407.54 seconds
+	Training with 7 features: 9079.12 seconds
+	Training with 8 features: 9740.09 seconds
+	Training with 9 features: 10392.37 seconds
+	Training with 10 features: 11036.94 seconds
+	Training with 11 features: 11676.63 seconds
+	Training with 12 features: 12309.91 seconds
+	Training with 13 features: 12960.83 seconds
+	Training with 14 features: 13587.02 seconds
+	Training with 15 features: 14210.17 seconds
+	Training with 16 features: 14833.67 seconds
+	Training with 17 features: 15452.44 seconds
+	Training with 18 features: 16070.99 seconds
+	Training with 19 features: 16685.30 seconds
+	Training with 20 features: 17299.34 seconds
+	Training with 21 features: 17913.71 seconds
+	Training with 22 features: 18527.50 seconds
+	Training with 23 features: 19140.06 seconds
+	Training with 24 features: 19751.02 seconds
+	Training with 25 features: 20361.15 seconds
+	Training with 26 features: 20969.95 seconds
+	Training with 27 features: 21577.00 seconds
+	Training with 28 features: 22185.64 seconds
+	Training with 29 features: 22793.53 seconds
+	Training with 30 features: 23399.41 seconds
+	Training with 31 features: 24005.07 seconds
+	Training with 32 features: 24609.65 seconds
+	Training with 33 features: 25216.44 seconds
+	Training with 34 features: 25821.24 seconds
+	Training with 35 features: 26426.79 seconds
+	Training with 36 features: 27030.72 seconds
+	Training with 37 features: 27634.48 seconds
+	Training with 38 features: 28238.50 seconds
+	Training with 39 features: 28841.71 seconds
+	Training with 40 features: 29508.71 seconds
+	Completed at time: 29508.71 seconds
+
+RELATHE
+ITFS Method: MIM
+	Completed at time: 106.39 seconds
+ITFS Method: MIFS
+	Completed at time: 212.61 seconds
+ITFS Method: JMI
+	Completed at time: 319.25 seconds
+ITFS Method: mRMR
+	Completed at time: 428.83 seconds
+ITFS Method: CIFE
+	Completed at time: 537.10 seconds
+ITFS Method: MRI
+	Completed at time: 644.97 seconds
+ITFS Method: DCSF
+	Completed at time: 750.56 seconds
+ITFS Method: CSMI
+	Training with 1 features: 755.62 seconds
+	Training with 2 features: 760.68 seconds
+	Training with 3 features: 765.76 seconds
+	Training with 4 features: 770.86 seconds
+	Training with 5 features: 775.98 seconds
+	Training with 6 features: 781.11 seconds
+	Training with 7 features: 786.23 seconds
+	Training with 8 features: 791.37 seconds
+	Training with 9 features: 796.56 seconds
+	Training with 10 features: 801.72 seconds
+	Training with 11 features: 806.92 seconds
+	Training with 12 features: 812.11 seconds
+	Training with 13 features: 817.34 seconds
+	Training with 14 features: 822.61 seconds
+	Training with 15 features: 827.83 seconds
+	Training with 16 features: 833.09 seconds
+	Training with 17 features: 838.36 seconds
+	Training with 18 features: 843.63 seconds
+	Training with 19 features: 848.89 seconds
+	Training with 20 features: 854.20 seconds
+	Training with 21 features: 859.52 seconds
+	Training with 22 features: 864.91 seconds
+	Training with 23 features: 870.27 seconds
+	Training with 24 features: 875.64 seconds
+	Training with 25 features: 881.05 seconds
+	Training with 26 features: 886.42 seconds
+	Training with 27 features: 891.77 seconds
+	Training with 28 features: 897.19 seconds
+	Training with 29 features: 902.69 seconds
+	Training with 30 features: 908.15 seconds
+	Training with 31 features: 913.66 seconds
+	Training with 32 features: 919.17 seconds
+	Training with 33 features: 924.75 seconds
+	Training with 34 features: 930.28 seconds
+	Training with 35 features: 935.85 seconds
+	Training with 36 features: 941.45 seconds
+	Training with 37 features: 947.06 seconds
+	Training with 38 features: 952.70 seconds
+	Training with 39 features: 958.35 seconds
+	Training with 40 features: 966.84 seconds
+	Completed at time: 966.84 seconds
+
+Yale
+ITFS Method: MIM
+	Completed at time: 287.58 seconds
+ITFS Method: MIFS
+	Completed at time: 563.74 seconds
+ITFS Method: JMI
+	Completed at time: 842.55 seconds
+ITFS Method: mRMR
+	Completed at time: 1118.82 seconds
+ITFS Method: CIFE
+	Completed at time: 1405.47 seconds
+ITFS Method: MRI
+	Completed at time: 1681.58 seconds
+ITFS Method: DCSF
+	Completed at time: 1967.55 seconds
+ITFS Method: CSMI
+	Training with 1 features: 2079.49 seconds
+	Training with 2 features: 2204.51 seconds
+	Training with 3 features: 2333.24 seconds
+	Training with 4 features: 2462.35 seconds
+	Training with 5 features: 2588.98 seconds
+	Training with 6 features: 2714.28 seconds
+	Training with 7 features: 2837.58 seconds
+	Training with 8 features: 2959.55 seconds
+	Training with 9 features: 3080.75 seconds
+	Training with 10 features: 3201.58 seconds
+	Training with 11 features: 3321.31 seconds
+	Training with 12 features: 3440.60 seconds
+	Training with 13 features: 3559.55 seconds
+	Training with 14 features: 3677.28 seconds
+	Training with 15 features: 3795.03 seconds
+	Training with 16 features: 3912.25 seconds
+	Training with 17 features: 4028.62 seconds
+	Training with 18 features: 4144.68 seconds
+	Training with 19 features: 4259.35 seconds
+	Training with 20 features: 4373.94 seconds
+	Training with 21 features: 4487.99 seconds
+	Training with 22 features: 4601.75 seconds
+	Training with 23 features: 4714.14 seconds
+	Training with 24 features: 4826.77 seconds
+	Training with 25 features: 4939.22 seconds
+	Training with 26 features: 5051.54 seconds
+	Training with 27 features: 5162.33 seconds
+	Training with 28 features: 5273.02 seconds
+	Training with 29 features: 5383.95 seconds
+	Training with 30 features: 5493.93 seconds
+	Training with 31 features: 5604.01 seconds
+	Training with 32 features: 5713.73 seconds
+	Training with 33 features: 5823.70 seconds
+	Training with 34 features: 5933.66 seconds
+	Training with 35 features: 6043.25 seconds
+	Training with 36 features: 6152.41 seconds
+	Training with 37 features: 6260.86 seconds
+	Training with 38 features: 6369.87 seconds
+	Training with 39 features: 6478.76 seconds
+	Training with 40 features: 6604.39 seconds
+	Completed at time: 6604.39 seconds
